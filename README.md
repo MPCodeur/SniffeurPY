@@ -1,4 +1,4 @@
-# ScappyPY
+# ScappySniff
 Sniffeur de packet en python avec mutliple option:
 - le nombre de paket à sniff
 - le type de couche exact à sniff

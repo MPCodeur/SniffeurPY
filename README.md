@@ -1,3 +1,5 @@
+TOUT LES PROGRAMMES SONT COMMENTÉS EN FRANCAIS, n'hésitant les regarder pour en apprendre plus sur la librairy scapy
+
 # ScappySniff
 Sniffeur de packet en python avec mutliple option:
 - le nombre de paket à sniff

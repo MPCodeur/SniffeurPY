@@ -12,7 +12,7 @@ Sniffeur de packet en python avec mutliple option:
 Surveille les packet IP indéfiniment d'une certaine adresse IP avec la possibilité d'afficher le packet ou de quitter le programme petit à petit
 
 # PacketIPCheckBis
-Les même fonctions que le programme précédent à la différence qu'on met l'ip a rechercher en argument permettant une automatisation a l'aide du programme
+Les même fonctions que le programme précédent à la différence qu'on met l'ip a rechercher en argument permettant une automatisation à l'aide du programme
 
 # CheckDNS
 Sniff les requetes DNS indéfiniment d'une adresse IP donnée tout en affichant la requête.

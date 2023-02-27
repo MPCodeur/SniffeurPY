@@ -1,19 +1,19 @@
-Tous les programmes sont commentés en francais, n'hésitant les lires pour en apprendre plus sur la librairy scapy
+Tous les programmes sont commentés en français, n'hésitez pas les lire pour en apprendre plus sur la librairie scapy.
 
 # ScappySniff
-Sniffeur de packet en python avec mutliple option:
-- le nombre de paket à sniff
-- le type de couche exact à sniff
+Sniffeur de packet en python avec mutliples options:
+- le nombre de packets à sniff
+- le type de couche exacte à sniff
 - l'affichage de l'IP source de chaque packet sniffé
-- le nombre de packet sniffé correspondant au type recherché
-- l'affichage ou non de tout les packets sniffé en détail
+- le nombre de packets sniffés correspondant au type recherché
+- l'affichage ou non de tous les packets sniffés en détails
 
 # PacketIPCheck
-Surveille les packet IP indéfiniment d'une certaine adresse IP avec la possibilité d'afficher le packet ou de quitter le programme petit à petit
+Surveille les packets IP indéfiniment d'une certaine adresse IP avec la possibilité d'afficher le packet ou de quitter le programme petit à petit.
 
 # PacketIPCheckBis
-Les même fonctions que le programme précédent à la différence qu'on met l'ip a rechercher en argument permettant une automatisation à l'aide du programme
+Les mêmes fonctions que le programme précédent à la différence qu'on met l'ip à rechercher en argument permettant une automatisation à l'aide du programme.
 
 # CheckDNS
-Sniff les requetes DNS indéfiniment d'une adresse IP donnée tout en affichant la requête.
-Permettant en d'autre terme de surveiller la navigation internet d'un pc
+Sniff les requêtes DNS indéfiniment d'une adresse IP donnée tout en affichant la requête.
+Permettant en d'autres termes de surveiller la navigation internet d'un pc.

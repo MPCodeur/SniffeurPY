@@ -1,4 +1,4 @@
-TOUT LES PROGRAMMES SONT COMMENTÉS EN FRANCAIS, n'hésitant les regarder pour en apprendre plus sur la librairy scapy
+Tous les programmes sont commentés en francais, n'hésitant les lires pour en apprendre plus sur la librairy scapy
 
 # ScappySniff
 Sniffeur de packet en python avec mutliple option:

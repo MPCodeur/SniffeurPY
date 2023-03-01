@@ -17,3 +17,6 @@ Les même fonctions que le programme précédent à la différence qu'on met l'i
 # CheckDNS
 Sniff les requetes DNS indéfiniment d'une adresse IP donnée tout en affichant la requête.
 Permettant en d'autre terme de surveiller la navigation internet d'un pc
+
+# Dns_analyse
+Programme permettant de detecter les packets DNS d'une capture pcap ou cap et créer ainsi deux fichiers: un dns.pcap ou est répértorié tous les packtes DNS et un dns.csv avec les infos des packets (Horodatage, IP source, IP destination et IP résolue)
